@@ -9,13 +9,13 @@ By the end, we'll implement the following features:
 - A marketplace where we can list NFTs for **direct sale** or for **auction**.
 - Allow users to **make bids** and **buy** our NFTs.
 
-**Check out the Demo here**: https://marketplace.web3sdkio-example.com
+**Check out the Demo here**: https://marketplace.web3sdkio-template.com
 
 ## Tools
 
-- [**web3sdkio Marketplace**](https://portal.web3sdk.io/contracts/marketplace): to facilitate the listing of NFTs and enable users to make buy, sell, or make offers on the NFTs on the marketplace.
-- [**web3sdkio NFT Collection**](https://portal.web3sdk.io/contracts/nft-collection): to create an ERC721 NFT Collection that we can list onto the marketplace.
-- [**web3sdkio React SDK**](https://docs.web3sdk.io/react): to enable users to connect and disconnect their wallets with our website, and access hooks such as [useContract](https://portal.web3sdk.io/react/react.usecontract) and [useActiveListings](https://portal.web3sdk.io/react/react.useactivelistings) to interact with the marketplace.
+- [**web3sdkio Marketplace**](https://docs.web3sdk.io/contracts/marketplace): to facilitate the listing of NFTs and enable users to make buy, sell, or make offers on the NFTs on the marketplace.
+- [**web3sdkio NFT Collection**](https://docs.web3sdk.io/contracts/nft-collection): to create an ERC721 NFT Collection that we can list onto the marketplace.
+- [**web3sdkio React SDK**](https://docs.web3sdk.io/react): to enable users to connect and disconnect their wallets with our website, and access hooks such as [useContract](https://docs.web3sdk.io/react/react.usecontract) and [useActiveListings](https://docs.web3sdk.io/react/react.useactivelistings) to interact with the marketplace.
 - [**web3sdkio TypeScript SDK**](https://docs.web3sdk.io/typescript): to connect to our marketplace smart contract, create new listings, make offers and buy listings!
 - [**Next JS Dynamic Routes**](https://nextjs.org/docs/routing/dynamic-routes): so we can have a dynamic route for each listing. eg. `listing/1` will show listing 1.
 
@@ -244,4 +244,4 @@ We attach these functions to the `onClick` handlers of our `Buy` and `Make Offer
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).

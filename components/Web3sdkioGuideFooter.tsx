@@ -2,7 +2,7 @@ import styles from "../../styles/Web3sdkio.module.css";
 import React from "react";
 
 export default function Web3sdkioGuideFooter() {
-  const url = "https://github.com/web3sdkio-example/marketplace-next-ts";
+  const url = "https://github.com/web3sdkio-template/marketplace-next-ts";
   return (
     <>
       <div
